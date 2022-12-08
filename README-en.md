@@ -52,7 +52,7 @@ After review **will `incorporate code` and `Close Pull Request`**
 
 We respect open source software. Here is a list of open source software uses:
 
-[ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) Protocol MIT | Team [Corona-Studio](https://github.com/Corona-Studio)
+[ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) LICENSE MIT | Studio [Corona-Studio](https://github.com/Corona-Studio)
 
 ## Friendly Links
 

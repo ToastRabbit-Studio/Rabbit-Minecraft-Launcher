@@ -53,7 +53,7 @@
 
 我们尊重开源软件，以下是开源软件使用列表：
 
-[ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) | 协议 MIT | 团队 [Corona-Studio](https://github.com/Corona-Studio)
+[ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) | 协议 MIT | 工作室 [Corona-Studio](https://github.com/Corona-Studio)
 
 ## 友情链接
 
