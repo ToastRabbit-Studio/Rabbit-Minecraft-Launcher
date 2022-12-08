@@ -9,7 +9,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/TUSITU123/Rabbit-Minecraft-Launcher?label=License&style=flat-square">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TUSITU123/Rabbit-Minecraft-Launcher?label=Repository%20Size&style=flat-square">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TUSITU123/Rabbit-Minecraft-Launcher?label=Last%20commit&style=flat-square">
-<img src="https://img.shields.io/badge/Author-吐司兔TUSITU-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Author-TUSITU123-blue?style=flat-square">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TUSITU123/Rabbit-Minecraft-Launcher?label=Stars&style=flat-square">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/TUSITU123/Rabbit-Minecraft-Launcher?label=Forks&style=flat-square"> 
 </p>
