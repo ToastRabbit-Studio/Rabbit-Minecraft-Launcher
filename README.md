@@ -13,3 +13,48 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TUSITU123/Rabbit-Minecraft-Launcher?label=Stars&style=flat-square">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/TUSITU123/Rabbit-Minecraft-Launcher?label=Forks&style=flat-square"> 
 </p>
+
+
+## 这是什么？
+
+这是一个年轻 Fluent Design 风格的 Minecraft 启动器 `Rabbit Minecraft Launcher **PERVIEW**` 的代码仓库
+
+使用 [Apache-2.0](https://github.com/TUSITU123/Rabbit-Minecraft-Launcher/blob/main/LICENSE) 协议开源
+
+我们**希望有能力的大佬来贡献**
+
+## 无法启动？
+
+本启动器基于 WPF C# 架构，需要 [.NET 6.0 Runtime](https://dotnet.microsoft.com/download)
+
+在使用或贡献代码之前请先检查你的电脑是否安装了上述 Runtime
+
+## 已知BUG：
+
+**本启动器尚在 PREVIEW 阶段，可以理解**
+
+1.大部分御三家功能暂未支持
+
+## 如何贡献代码？
+
+在 `GitHub` 页面右上角找到 `Fork` 并点击
+
+这样 `GitHub` 会把仓库复制到 `与本仓库同名的仓库` ，当然也可以自行设置
+
+然后打开 `Visual Studio 2022` ，进入主界面后点击 `克隆存储库` ，在 `存储库位置` 一栏填入 `你 Fork 后的仓库的 .git 文件` ，点击 `克隆`
+
+编写完以后 **`Push`** 即可，然后 **打开一个 `Pull Request`**
+
+**写明你写了什么**
+
+经过审核之后**会 `融入代码` 并 `Close Pull Request`**
+
+## 开源软件使用列表
+
+我们尊重开源软件，以下是开源软件使用列表：
+
+[ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) | 协议 MIT | 团队 [Corona-Studio](https://github.com/Corona-Studio)
+
+## 友情链接
+
+[Cake-Launcher](https://github.com/Big-Cake-jpg/Cake-Launcher)

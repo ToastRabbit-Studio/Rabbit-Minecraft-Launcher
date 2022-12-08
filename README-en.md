@@ -13,3 +13,47 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TUSITU123/Rabbit-Minecraft-Launcher?label=Stars&style=flat-square">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/TUSITU123/Rabbit-Minecraft-Launcher?label=Forks&style=flat-square"> 
 </p>
+
+## What is this?
+
+This is a code repository for the young Fluent Designing style Minecraft launcher `Rabbit Minecraft Launcher **PERVIEW**`
+
+Using [Apache-2.0](https://github.com/TUSITU123/Rabbit-Minecraft-Launcher/blob/main/LICENSE) Protocol Open Source
+
+We **want capable gangsters to contribute**
+
+## Unable to start?
+
+This starter is based on the WPF C#architecture and requires [.NET 6.0 Runtime](https://dotnet.microsoft.com/download)
+
+Check that your computer has the above Runtime installed before using or contributing code
+
+## Known BUG:
+
+**This starter is still in PREVIEW stage, understandable**
+
+1. Most of the Royal Three functions are not yet supported.
+
+How do I contribute code?
+
+Find `Fork` in the upper right corner of the `GitHub` page and click
+
+In this way `GitHub` will copy the repository to `a repository with the same name as this repository` , but of course you can set it up yourself
+
+Then open `Visual Studio 2022`, go to the main interface and click `Clone Repository` , fill in the `Repository Location` column `The .git file of the repository behind your Fork` , and click `Clone`
+
+When you've finished writing **`Push`** you can, and then **open a `Pull Request`**
+
+**Write what you wrote**
+
+After review **will `incorporate code` and `Close Pull Request`**
+
+## Open Source Software Usage List
+
+We respect open source software. Here is a list of open source software uses:
+
+[ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) Protocol MIT | Team [Corona-Studio](https://github.com/Corona-Studio)
+
+## Friendly Links
+
+[Cake-Launcher](https://github.com/Big-Cake-jpg/Cake-Launcher)
