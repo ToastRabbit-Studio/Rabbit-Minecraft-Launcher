@@ -17,7 +17,7 @@
 
 ## 这是什么？
 
-这是一个年轻 Fluent Design 风格的 Minecraft 启动器 `Rabbit Minecraft Launcher **PERVIEW**` 的代码仓库
+这是一个年轻 Fluent Design 风格的 Minecraft 启动器 `Rabbit Minecraft Launcher` 的代码仓库
 
 使用 [Apache-2.0](https://github.com/TUSITU123/Rabbit-Minecraft-Launcher/blob/main/LICENSE) 协议开源
 

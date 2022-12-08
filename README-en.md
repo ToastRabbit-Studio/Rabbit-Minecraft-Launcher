@@ -16,7 +16,7 @@
 
 ## What is this?
 
-This is a code repository for the young Fluent Designing style Minecraft launcher `Rabbit Minecraft Launcher **PERVIEW**`
+This is a code repository for the young Fluent Designing style Minecraft launcher `Rabbit Minecraft Launcher`
 
 Using [Apache-2.0](https://github.com/TUSITU123/Rabbit-Minecraft-Launcher/blob/main/LICENSE) Protocol Open Source
 
