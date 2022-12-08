@@ -23,6 +23,10 @@
 
 我们**希望有能力的大佬来贡献**
 
+## Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/da47463127441eb69aac0b096cf679887b477731.svg "Repobeats analytics image")
+
 ## 无法启动？
 
 本启动器基于 WPF C# 架构，需要 [.NET 6.0 Runtime](https://dotnet.microsoft.com/download)

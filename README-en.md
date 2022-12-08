@@ -22,6 +22,10 @@ Using [Apache-2.0](https://github.com/TUSITU123/Rabbit-Minecraft-Launcher/blob/m
 
 We **want capable gangsters to contribute**
 
+## Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/da47463127441eb69aac0b096cf679887b477731.svg "Repobeats analytics image")
+
 ## Unable to start?
 
 This starter is based on the WPF C#architecture and requires [.NET 6.0 Runtime](https://dotnet.microsoft.com/download)
