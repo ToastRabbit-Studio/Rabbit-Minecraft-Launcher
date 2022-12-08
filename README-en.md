@@ -1,4 +1,4 @@
-- [简体中文](https://github.com/TUSITU123/Rabbit-Minecraft-Launcher/blob/dev/README.md)
+- [简体中文](https://github.com/TUSITU123/Rabbit-Minecraft-Launcher/blob/main/README.md)
 - **English**
 
 <h1 align="center">Rabbit Minecraft Launcher | A Minecraft Launcher</h1>
