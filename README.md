@@ -57,6 +57,7 @@
 
 我们尊重开源软件，以下是开源软件使用列表：
 
+[WPF-UI](https://github.com/lepoco/wpfui) 协议 MIT | 作者 [lepoco](https://github.com/lepoco)
 [ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) | 协议 MIT | 工作室 [Corona-Studio](https://github.com/Corona-Studio)
 
 ## 友情链接
