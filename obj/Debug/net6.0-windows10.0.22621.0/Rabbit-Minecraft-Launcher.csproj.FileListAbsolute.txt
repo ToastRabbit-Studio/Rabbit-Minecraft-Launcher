@@ -43,3 +43,11 @@ E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\App
 E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\GeneratedInternalTypeHelper.g.cs
 E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\DashboardPage.g.cs
 E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\DashboardPage.baml
+E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\DownloadPage.g.cs
+E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\DownloadPage.baml
+E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\AboutPage.g.cs
+E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\NewsPage.g.cs
+E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\SettingsPage.g.cs
+E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\AboutPage.baml
+E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\NewsPage.baml
+E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows10.0.22621.0\SettingsPage.baml

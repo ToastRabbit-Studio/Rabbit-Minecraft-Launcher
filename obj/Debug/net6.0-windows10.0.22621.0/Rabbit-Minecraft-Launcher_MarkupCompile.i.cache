@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 E:\git_clones\Rabbit-Minecraft-Launcher\App.xaml
-2-813808008
+6-151352722
 
-6384438547
+101628616149
 212-2145478931
-DashboardPage.xaml;MainWindow.xaml;
+AboutPage.xaml;DashboardPage.xaml;DownloadPage.xaml;MainWindow.xaml;NewsPage.xaml;SettingsPage.xaml;
 
-True
+False
 

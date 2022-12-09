@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Wpf.Ui.Controls;
 using Wpf.Ui.Mvvm.Interfaces;
 
 namespace Rabbit_Minecraft_Launcher

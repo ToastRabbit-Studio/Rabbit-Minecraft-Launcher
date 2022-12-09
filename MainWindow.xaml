@@ -18,21 +18,38 @@
             SelectedPageIndex="0">
             <ui:NavigationStore.Items>
                 <ui:NavigationItem
-                    Content="Home"
+                    Content="主页"
                     Icon="Home24"
                     PageTag="home"
                     PageType="{x:Type local:DashboardPage}" />
-                <ui:NavigationItem Content="Apps" Icon="AppFolder24" />
-                <ui:NavigationItem Content="Mail" Icon="Mail24" />
+                <ui:NavigationItem
+                    Content="下载"
+                    Icon="AppFolder24"
+                    PageTag="download"
+                    PageType="{x:Type local:DownloadPage}"/>
+                <ui:NavigationItem
+                    Content="新闻"
+                    Icon="Mail24"
+                    PageTag="news"
+                    PageType="{x:Type local:NewsPage}"/>
             </ui:NavigationStore.Items>
             <ui:NavigationStore.Footer>
-                <ui:NavigationItem Content="Library" Icon="Library24" />
-                <ui:NavigationItem Content="Settings" Icon="Settings24" />
+                <ui:NavigationItem
+                    Content="关于"
+                    Icon="Library24"
+                    PageTag="about"
+                    PageType="{x:Type local:AboutPage}"/>
+                <ui:NavigationItem
+                    Content="设置"
+                    Icon="Settings24"
+                    PageTag="settings"
+                    PageType="{x:Type local:SettingsPage}"/>
             </ui:NavigationStore.Footer>
         </ui:NavigationStore>
         <Frame
             x:Name="MainFrame"
             Grid.Column="1"
             Margin="8,0,0,0" />
+
     </Grid>
 </Window>
