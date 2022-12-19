@@ -2,16 +2,14 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net6.0-windows10.0.22621.0</TargetFramework>
+    <TargetFramework>net6.0-windows</TargetFramework>
     <RootNamespace>Rabbit_Minecraft_Launcher</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
-    <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
-    <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ProjBobcat" Version="1.21.0" />
+    <PackageReference Include="Natsurainko.FluentCore" Version="2.0.2" />
     <PackageReference Include="WPF-UI" Version="2.0.3" />
   </ItemGroup>
 

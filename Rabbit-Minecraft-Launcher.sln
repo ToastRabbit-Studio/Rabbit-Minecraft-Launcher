@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbit-Minecraft-Launcher", "Rabbit-Minecraft-Launcher.csproj", "{FCDFDBD9-C035-4BE1-9A4D-2CC3BE119342}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbit-Minecraft-Launcher", "Rabbit-Minecraft-Launcher.csproj", "{6ADD911F-072D-4B1E-9CEA-72941512602D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FCDFDBD9-C035-4BE1-9A4D-2CC3BE119342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FCDFDBD9-C035-4BE1-9A4D-2CC3BE119342}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FCDFDBD9-C035-4BE1-9A4D-2CC3BE119342}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FCDFDBD9-C035-4BE1-9A4D-2CC3BE119342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADD911F-072D-4B1E-9CEA-72941512602D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADD911F-072D-4B1E-9CEA-72941512602D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADD911F-072D-4B1E-9CEA-72941512602D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADD911F-072D-4B1E-9CEA-72941512602D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4ACBB2A3-DAC6-4E38-AA36-EC7D7E05F850}
+		SolutionGuid = {E99A7DA0-5981-4D2A-9270-559AB6A81862}
 	EndGlobalSection
 EndGlobal

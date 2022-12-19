@@ -5,13 +5,10 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Net;
-using ProjBobcat.Class.Helper;
-
-/// 入口初始化
-/// ServicePointManager.DefaultConnectionLimit = 512;
-/// ServiceHelper.Init();
-/// HttpClientHelper.Init();
+using Natsurainko.FluentCore.Class.Model.Launch;
+using Natsurainko.FluentCore.Module.Authenticator;
+using Natsurainko.FluentCore.Module.Launcher;
+using Natsurainko.FluentCore.Wrapper;
 
 namespace Rabbit_Minecraft_Launcher
 {

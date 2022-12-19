@@ -57,7 +57,7 @@ After review **will `incorporate code` and `Close Pull Request`**
 We respect open source software. Here is a list of open source software uses:
 
 [WPF-UI](https://github.com/lepoco/wpfui) LICENSE MIT | Author [lepoco](https://github.com/lepoco)
-[ProjBobcat](https://github.com/Corona-Studio/ProjBobcat) LICENSE MIT | Studio [Corona-Studio](https://github.com/Corona-Studio)
+[Natsurainko.FluentCore](https://github.com/Xcube-Studio/Natsurainko.FluentCore) | LICENSE MIT | Studio [Xcube-Studio](https://github.com/Xcube-Studio)
 
 ## Friendly Links
 
