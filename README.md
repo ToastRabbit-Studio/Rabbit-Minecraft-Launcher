@@ -25,7 +25,7 @@
 
 ## Stats
 
-![Alt](https://repobeats.axiom.co/api/embed/da47463127441eb69aac0b096cf679887b477731.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/6b01bb692468edd84b8b8c9f5a4cec179bd3e309.svg "Repobeats analytics image")
 
 ## 无法启动？
 
