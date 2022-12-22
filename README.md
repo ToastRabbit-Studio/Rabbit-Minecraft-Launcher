@@ -57,7 +57,8 @@
 
 我们尊重开源软件，以下是开源软件使用列表：
 
-[WPF-UI](https://github.com/lepoco/wpfui) 协议 MIT | 作者 [lepoco](https://github.com/lepoco)
+[WPF-UI](https://github.com/lepoco/wpfui) 协议 MIT | 工作室 [lepoco](https://github.com/lepoco)
+
 [Natsurainko.FluentCore](https://github.com/Xcube-Studio/Natsurainko.FluentCore) | 协议 MIT | 工作室 [Xcube-Studio](https://github.com/Xcube-Studio)
 
 ## 友情链接

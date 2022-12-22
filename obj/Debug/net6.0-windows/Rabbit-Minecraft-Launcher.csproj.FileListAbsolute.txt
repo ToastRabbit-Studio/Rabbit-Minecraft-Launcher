@@ -36,3 +36,4 @@ E:\git_clones\Rabbit-Minecraft-Launcher\bin\Debug\net6.0-windows\Wpf.Ui.dll
 E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows\Rabbit-Minecraft-Launcher.csproj.CopyComplete
 E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows\Rabbit-Minecraft-Launcher.genruntimeconfig.cache
 E:\git_clones\Rabbit-Minecraft-Launcher\obj\Debug\net6.0-windows\ref\Rabbit-Minecraft-Launcher.dll
+E:\git_clones\Rabbit-Minecraft-Launcher\bin\Debug\net6.0-windows\Natsurainko.FluentCore.Extension.Windows.dll

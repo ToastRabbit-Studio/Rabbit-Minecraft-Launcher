@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Natsurainko.FluentCore" Version="2.0.2" />
+    <PackageReference Include="Natsurainko.FluentCore.Extension.Windows" Version="2.0.2" />
     <PackageReference Include="WPF-UI" Version="2.0.3" />
   </ItemGroup>
 

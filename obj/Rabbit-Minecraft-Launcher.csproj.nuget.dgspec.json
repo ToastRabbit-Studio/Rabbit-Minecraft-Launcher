@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[2.0.2, )"
             },
+            "Natsurainko.FluentCore.Extension.Windows": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
             "WPF-UI": {
               "target": "Package",
               "version": "[2.0.3, )"

@@ -36,9 +36,9 @@ Check that your computer has the above Runtime installed before using or contrib
 
 **This starter is still in PREVIEW stage, understandable**
 
-1. Most of the Royal Three functions are not yet supported.
+1. Most launchers have features that are not yet supported.
 
-How do I contribute code?
+## How do I contribute code?
 
 Find `Fork` in the upper right corner of the `GitHub` page and click
 
@@ -56,7 +56,8 @@ After review **will `incorporate code` and `Close Pull Request`**
 
 We respect open source software. Here is a list of open source software uses:
 
-[WPF-UI](https://github.com/lepoco/wpfui) LICENSE MIT | Author [lepoco](https://github.com/lepoco)
+[WPF-UI](https://github.com/lepoco/wpfui) LICENSE MIT | Studio [lepoco](https://github.com/lepoco)
+
 [Natsurainko.FluentCore](https://github.com/Xcube-Studio/Natsurainko.FluentCore) | LICENSE MIT | Studio [Xcube-Studio](https://github.com/Xcube-Studio)
 
 ## Friendly Links

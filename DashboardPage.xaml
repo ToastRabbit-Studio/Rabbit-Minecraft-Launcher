@@ -10,12 +10,7 @@
       Title="DashboardPage">
 
     <Grid>
-        <Viewbox>
-            <TextBlock Text="Hello World!" Margin="100,100,100,100"/>
-        </Viewbox>
-        <Viewbox>
-            <ui:Button Content="Button" Margin="800,450,0,50" Height="92" Width="188" VerticalAlignment="Top"/>
-        </Viewbox>
+        <ui:Button Height="75" Width="180" Margin="310,349,310,26" VerticalAlignment="Bottom" HorizontalAlignment="Center" Content="启动游戏" FontSize="24" Click="Button_Click" />
     </Grid>
 
 </Page>
